@@ -160,7 +160,6 @@
     background-size: cover;
 }
 
-/* наверное делать картинки через цсс всё же легче */
 .lots-card-1 {
     background-image:
     linear-gradient(rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
